@@ -1,0 +1,12 @@
+{
+  "output": "Bridge/www/bin",
+  "fileName": "estoque.js",
+  "outputBy": "Project",
+  "preserveMemberCase": true
+
+  // Uncomment to add TypeScript Definition file (.d.ts) generation to your project.
+  // , "generateTypeScript": true
+
+  // More options available at:
+  // http://bridge.net/kb/global-configuration
+}
